@@ -2,6 +2,8 @@
 
 Aim: Build an Electric Penny board. Why? :cool: :dash:
 
+-> Penny boards are small, so can't hold a huge battery, but are easy to carry around - ideal for short commutes to lectures...
+
 ---
 ## Funding Sources
 
