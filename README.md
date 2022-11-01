@@ -7,6 +7,12 @@ Aim: Build an Electric Penny board. Why? :cool: :dash:
 ---
 ## Funding Sources
 
+Funding up to £500 is available through the Cambridge University Engineers' Association (CUEA)
+
+Expression of interest must be made through the Student-Led Project and Industry Partners (SPIP) [Moodle Page](https://www.vle.cam.ac.uk/course/view.php?id=80701).
+
+[Proposed Application Form](https://docs.google.com/document/d/1AksArTRbEuuPk_i-ffRBs1ruVTw2mQmCphtqgqQZf8o/edit?usp=sharing)
+
 
 ---
 ## Parts List
