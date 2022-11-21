@@ -13,6 +13,7 @@ Expression of interest must be made through the Student-Led Project and Industry
 
 [Proposed Application Form](https://docs.google.com/document/d/1AksArTRbEuuPk_i-ffRBs1ruVTw2mQmCphtqgqQZf8o/edit?usp=sharing)
 
+[CUES Application Form](https://docs.google.com/document/d/1FWv_CpdFbCYm4kG0_fIvIuCsB2Xd6FUC)
 
 ---
 ## Parts List
@@ -24,7 +25,7 @@ Expression of interest must be made through the Student-Led Project and Industry
 - :white_check_mark: ESC with BT controller - £50
   - Bought on [Amazon](https://www.amazon.co.uk/Focket-Electric-Skateboard-Longboard-Controller/dp/B07WHWV7HJ)
     - 36 V (doens't list cell count, but presumably 8 - 10S?)
-  - This is likely not the best pace to source the part, considering it doesn't list any specs, nor is it well renowned for electronics. We shd aim to source another one
+  - This is likely not the best place to source the part, considering it doesn't list any specs, nor is it well renowned for electronics. We shd aim to source another one
 - :white_square_button: Batteries
   - :heavy_exclamation_mark: 18650 Li Ion batteries! We can use LiPo in testing, but Li ion are mandatory for final product!
   - Are we going to make the pack ourselves - we'll need a spot welder(?) (forgot actual term). [Great Scott](https://www.youtube.com/watch?v=hwhqn4BmC2I) did a good video comparing building this urself
@@ -46,3 +47,11 @@ Expression of interest must be made through the Student-Led Project and Industry
       - [£71](https://www.ebay.co.uk/itm/284278794824) (Previously £60 a yr ago)
      - [Dual Hub Motor Drive Kit](https://www.ebay.co.uk/itm/313658467222) (link doesn't exist anymore)
 - Not sure what this link is for: [Spare parts](https://www.ebay.co.uk/itm/163846909246)
+- [Battery Design] (https://www.batterydesign.net/)
+
+---
+## Interesting
+
+- [Speed wobbles](https://youtu.be/gu23ey-Q8zU?t=32)
+- [UK Electric Bike Laws](https://www.gov.uk/electric-bike-rules): < 250 W, < 15.5 mph
+- [Choosing Zinc Strip Width](https://www.youtube.com/watch?v=wdZ_Ca_sAZE
