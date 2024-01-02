@@ -28,7 +28,10 @@ Expression of interest must be made through the Student-Led Project and Industry
   - This is likely not the best place to source the part, considering it doesn't list any specs, nor is it well renowned for electronics. We shd aim to source another one
 - :white_square_button: Batteries
   - :heavy_exclamation_mark: 18650 Li Ion batteries! We can use LiPo in testing, but Li ion are mandatory for final product!
-  - Are we going to make the pack ourselves - we'll need a spot welder(?) (forgot actual term). [Great Scott](https://www.youtube.com/watch?v=hwhqn4BmC2I) did a good video comparing building this urself
+  - Are we going to make the pack ourselves - we'll need a spot welder
+    - [Great Scott](https://www.youtube.com/watch?v=hwhqn4BmC2I) did a good video comparing building this urself
+    - Cheap ones can be found on [Banggood](https://uk.banggood.com/QSKJ-5000W-Mini-Spot-Welder-High-Power-Handheld-Spot-Welding-Machine-for-18650-Battery-Welding-Tools-for-0_1-or-0_15-or-0_2-or-0_25mm-Nickel-Strip-0-800A-Current-Adjustable-p-1766371.html)
+    - There's a good review on [Youtube of Mini Hi Power 5kW](https://www.youtube.com/watch?v=2coQoZFDHuk&t=512s)
   - Common configurations are: 6S2P or [10S2P > £100](https://www.amazon.co.uk/s?k=10s2p+Battery)
   - Charger
   - BMS
